@@ -6,7 +6,7 @@
 // ------------- PHYMAC parameters              파이맥 파라미터들
 #define PHYMAC_PARAM_PWR                14                      //전원 세기 기본값 14
 #define PHYMAC_PARAM_BW                 HAL_LRBW_125            //대역폭
-#define PHYMAC_PARAM_DR                 HAL_LRDatarate_SF7      //데이터 레이트(data rate), 기본값은 SF9였으나 수정함, 실험에서 이 파라미터를 주로 수정하여 바이너리 파일 생성
+#define PHYMAC_PARAM_DR                 HAL_LRDatarate_SF7      //데이터 레이트(data rate), 기본값은 SF9였으나 수정함, "실험에서 이 파라미터를 주로 수정하여 바이너리 파일 생성"
 #define PHYMAC_PARAM_CR                 HAL_LRCoderate_4_5      //코드 레이트
 #define PHYMAC_PARAM_PREAMBLELEN        8                       //프리앰블(전문 길이)
 #define PHYMAC_PARAM_FREQ               922100000               //주파수
