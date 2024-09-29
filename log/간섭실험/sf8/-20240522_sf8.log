@@ -1,0 +1,30 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.05.22 01:52:24 =~=~=~=~=~=~=~=~=~=~=~=
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+>>>>> HAL OnTxTimeout
+>>>>> HAL OnRxError
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 74609 milli secomds
+error count: 14
+Execution time: 93181 milli secomds
+error count: 10
+Execution time: 47426 milli secomds
+error count: 15
+Execution time: 32251 milli secomds
+error count: 11
+Execution time: 148822 milli secomds
+error count: 19
+Execution time: 11442 milli secomds
+error count: 0
+Execution time: 17882 milli secomds
+error count: 0
+Execution time: 11444 milli secomds
+error count: 0
+Execution time: 17882 milli secomds
+error count: 0
+Execution time: 14548 milli secomds
+error count: 1
+-----------------------The End-----------------------
