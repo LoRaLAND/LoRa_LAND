@@ -1,0 +1,73 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.09.02 13:02:25 =~=~=~=~=~=~=~=~=~=~=~=
+------------------ ARQ protocol starts! --------------------------
+endnode : 34,------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+>>>>> HAL OnTxTimeout
+>>>>> HAL OnRxError
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+>>>>> HAL OnTxTimeout
+>>>>> HAL OnRxError
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 45336 milli secomds
+error count: 16
+Execution time: 41142 milli secomds
+error count: 22
+Execution time: 44412 milli secomds
+error count: 15
+
+ -------------------------------------------------
+[ARQ] ACK is received (1)
+ -------------------------------------------------
+[WARNING] cannot happen event 2 in the state 0
+Execution time: 45937 milli secomds
+error count: 8
+Execution time: 42669 milli secomds
+error count: 12
+Execution time: 819 milli secomds
+error count: 1
+Execution time: 42017 milli secomds
+error count: 10
+Execution time: 40924 milli secomds
+error count: 11
+Execution time: 46373 milli secomds
+error count: 14
+Execution time: 46373 milli secomds
+error count: 14
+-----------------------The End-----------------------
+
+ -------------------------------------------------
+[ARQ] ACK is received (1)
+ -------------------------------------------------
+
+ -------------------------------------------------
+[ARQ] ACK is received (193)
+ -------------------------------------------------
+
+ -------------------------------------------------
+[ARQ] ACK is received (0)
+ -------------------------------------------------
+
+ -------------------------------------------------
+[ARQ] ACK is received (0)
+ -------------------------------------------------
+
+ -------------------------------------------------
+[ARQ] ACK is received (0)
+ -------------------------------------------------
+
+ -------------------------------------------------
+[ARQ] ACK is received (0)
+ -------------------------------------------------
+
+ -------------------------------------------------
+[ARQ] ACK is received (0)
+ -------------------------------------------------
+[PHYMAC] WARNING : PDU size is too large!! PDU will be truncated...

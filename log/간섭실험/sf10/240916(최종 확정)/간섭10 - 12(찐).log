@@ -1,0 +1,124 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.09.17 01:13:57 =~=~=~=~=~=~=~=~=~=~=~=
+E------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 149497 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+Execution time: 149445 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+-----------------------The End-----------------------
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 150992 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 149497 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+------------------- ARQ protocol starts! --------------------------             <===================== 간섭 시작(but 별 변화 없음)
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 149495 milli secomds
+error count: 0
+Execution time: 150938 milli secomds
+error count: 0
+Execution time: 149443 milli secomds
+error count: 0
+Execution time: 149443 milli secomds
+error count: 0
+Execution time: 150938 milli secomds
+error count: 0
+Execution time: 149443 milli secomds
+error count: 0
+Execution time: 149443 milli secomds
+error count: 0
+Execution time: 149443 milli secomds
+error count: 0
+Execution time: 149443 milli secomds
+error count: 0
+Execution time: 149443 milli secomds
+error count: 0
+-----------------------The End-----------------------
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+[PHYMAC] WARNING : PDU size is too large!! PDU will be truncated...
+------------------ ARQ protocol starts! --------------------------             <===================== 간섭이 제대로 되곤 있는지 확인해보려고 10쌍을 연결 -> 간섭 제대로걸리고 있는거 확인
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 306749 milli secomds
+error count: 13
+Execution time: 299803 milli secomds
+error count: 9
+Execution time: 713 milli secomds
+error count: 1

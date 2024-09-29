@@ -1,0 +1,89 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.09.16 00:42:35 =~=~=~=~=~=~=~=~=~=~=~=
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 22232 milli secomds
+error count: 0
+Execution time: 21963 milli secomds
+error count: 0
+Execution time: 21963 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+Execution time: 22181 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+-----------------------The End-----------------------
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 21796 milli secomds
+error count: 0
+Execution time: 21963 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 46050 milli secomds
+error count: 13
+Execution time: 44630 milli secomds
+error count: 9
+Execution time: 42451 milli secomds
+error count: 9
+Execution time: 47900 milli secomds
+error count: 15
+Execution time: 45284 milli secomds
+error count: 20
+Execution time: 46591 milli secomds
+error count: 7
+Execution time: 47900 milli secomds
+error count: 16
+Execution time: 41796 milli secomds
+error count: 14
+Execution time: 40270 milli secomds
+error count: 13
+Execution time: 383 milli secomds
+error count: 1
+-----------------------The End-----------------------
+

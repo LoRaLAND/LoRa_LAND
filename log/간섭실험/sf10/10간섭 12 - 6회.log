@@ -1,0 +1,32 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.09.01 19:58:35 =~=~=~=~=~=~=~=~=~=~=~=
+------------------- ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+>>>>> HAL OnTxTimeout
+>>>>> HAL OnRxError
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 264609 milli secomds
+error count: 8
+[PHYMAC] WARNING : PDU size is too large!! PDU will be truncated...
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+>>>>> HAL OnTxTimeout
+>>>>> HAL OnRxError
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 1194482 milli secomds
+error count: 67
+Execution time: 2088421 milli secomds
+error count: 114
+Execution time: 2934 milli secomds
+error count: 1
+Execution time: 565049 milli secomds
+error count: 19
+Execution time: 328840 milli secomds
+error count: 7
+Execution time: 553087 milli secomds
+error count: 28

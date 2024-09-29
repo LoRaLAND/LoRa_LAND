@@ -1,0 +1,37 @@
+------- ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 50828 milli secomds
+error count: 0
+Execution time: 49889 milli secomds
+error count: 1
+Execution time: 52331 milli secomds
+error count: 0
+Execution time: 48780 milli secomds
+error count: 2
+Execution time: 54773 milli secomds
+error count: 0
+Execution time: 51443 milli secomds
+error count: 0
+Execution time: 54773 milli secomds
+error count: 0
+Execution time: 50777 milli secomds
+error count: 1
+
+ -------------------------------------------------
+[ARQ] ACK is received (16)
+ -------------------------------------------------
+[WARNING] cannot happen event 2 in the state 0
+Execution time: 47892 milli secomds
+error count: 1
+Execution time: 50777 milli secomds
+error count: 0
+-----------------------The End-----------------------

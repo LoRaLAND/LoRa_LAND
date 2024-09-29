@@ -1,0 +1,74 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.09.16 02:43:59 =~=~=~=~=~=~=~=~=~=~=~=
+E------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 149497 milli secomds
+error count: 0
+Execution time: 149445 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+-----------------------The End-----------------------
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+      Initializing Radio Interrupt handlers 
+Execution time: 366267 milli secomds
+error count: 9
+Execution time: 313891 milli secomds
+error count: 6
+Execution time: 357245 milli secomds
+error count: 11
+Execution time: 388692 milli secomds
+error count: 9
+Execution time: 391630 milli secomds
+error count: 12
+Execution time: 443953 milli secomds
+error count: 9
+Execution time: 340801 milli secomds
+error count: 5
+Execution time: 328841 milli secomds
+error count: 3
+Execution time: 394620 milli secomds
+error count: 7
+[PHYMAC] WARNING : PDU size is too large!! PDU will be truncated...

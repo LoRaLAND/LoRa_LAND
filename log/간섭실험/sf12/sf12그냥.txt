@@ -1,0 +1,32 @@
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 152707 milli secomds
+error count: 0
+Execution time: 152655 milli secomds
+error count: 0
+Execution time: 151143 milli secomds
+error count: 0
+Execution time: 151143 milli secomds
+error count: 0
+Execution time: 152655 milli secomds
+error count: 0
+Execution time: 151143 milli secomds
+error count: 0
+Execution time: 152655 milli secomds
+error count: 0
+Execution time: 152655 milli secomds
+error count: 0
+Execution time: 152655 milli secomds
+error count: 0
+Execution time: 154167 milli secomds
+error count: 0
+-----------------------The End-----------------------
