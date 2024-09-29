@@ -1,0 +1,48 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.08.19 10:35:47 =~=~=~=~=~=~=~=~=~=~=~=
+------------------ ARQ protocol starts! --------------------------
+endnode : 12, dest : 34
+>>>>> HAL OnTxDone Function
+>>>>> HAL OnTxTimeout
+>>>>> HAL OnRxError
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+[PHYMAC] WARNING : PDU size is too large!! PDU will be truncated...
+------------------ ARQ protocol starts! --------------------------
+endnode : 12, dest : 34
+>>>>> HAL OnTxDone Function
+>>>>> HAL OnTxTimeout
+>>>>> HAL OnRxError
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+[PHYMAC] WARNING : PDU size is too large!! PDU will be truncated...
+------------------ ARQ protocol starts! --------------------------
+endnode : 12, dest : 34
+>>>>> HAL OnTxDone Function
+>>>>> HAL OnTxTimeout
+>>>>> HAL OnRxError
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+[PHYMAC] WARNING : PDU size is too large!! PDU will be truncated...
+[PHYMAC] WARNING : PDU size is too large!! PDU will be truncated...
+[PHYMAC] WARNING : PDU size is too large!! PDU will be truncated...
+[PHYMAC] WARNING : PDU size is too large!! PDU will be truncated...
+[PHYMAC] WARNING : PDU size is too large!! PDU will be truncated...
+------------------ ARQ protocol starts! --------------------------
+endnode : 12, dest : 34
+>>>>> HAL OnTxDone Function
+>>>>> HAL OnTxTimeout
+>>>>> HAL OnRxError
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+------------------ ARQ protocol starts! --------------------------
+endnode : 12, dest : 34
+>>>>> HAL OnTxDone Function
+>>>>> HAL OnTxTimeout
+>>>>> HAL OnRxError
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
