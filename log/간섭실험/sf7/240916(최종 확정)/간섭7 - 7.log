@@ -1,0 +1,65 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.09.16 09:59:56 =~=~=~=~=~=~=~=~=~=~=~=
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 7792 milli secomds
+error count: 0
+Execution time: 6984 milli secomds
+error count: 0
+Execution time: 6984 milli secomds
+error count: 0
+Execution time: 6915 milli secomds
+error count: 0
+Execution time: 6846 milli secomds
+error count: 0
+Execution time: 6915 milli secomds
+error count: 0
+Execution time: 6915 milli secomds
+error count: 0
+Execution time: 6846 milli secomds
+error count: 0
+Execution time: 6915 milli secomds
+error count: 0
+Execution time: 6915 milli secomds
+error count: 0
+-----------------------The End-----------------------
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 59445 milli secomds
+error count: 36
+Execution time: 15050 milli secomds
+error count: 9
+Execution time: 22361 milli secomds
+error count: 13
+Execution time: 24498 milli secomds
+error count: 14
+Execution time: 20222 milli secomds
+error count: 10
+Execution time: 64840 milli secomds
+error count: 30
+Execution time: 35532 milli secomds
+error count: 28
+Execution time: 17464 milli secomds
+error count: 10
+Execution time: 27532 milli secomds
+error count: 11
+Execution time: 20774 milli secomds
+error count: 17
+-----------------------The End-----------------------

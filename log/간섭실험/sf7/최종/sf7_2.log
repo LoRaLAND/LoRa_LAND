@@ -1,0 +1,191 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.08.31 20:56:39 =~=~=~=~=~=~=~=~=~=~=~=
+>>BLzToF]ki)> *1 QxUo]>>HP
+zRrK)> *1 IxUo]
+B R+iX+iRXVIr +dsREc]W W:1mZ m)e.ru REc]W W:9Ljl+sYso.u REc]W W:3 [icso.u R-K------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+>>>>> HAL OnTxTimeout
+>>>>> HAL OnRxError
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 10429 milli secomds
+error count: 0
+Execution time: 14571 milli secomds
+error count: 9
+Execution time: 16844 milli secomds
+error count: 12
+Execution time: 12752 milli secomds
+error count: 5
+Execution time: 11557 milli secomds
+error count: 7
+Execution time: 12352 milli secomds
+error count: 4
+Execution time: 11731 milli secomds
+error count: 3
+Execution time: 12235 milli secomds
+error count: 5
+[PHYMAC] WARNING : PDU size is too large!! PDU will be truncated...
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+>>>>> HAL OnTxTimeout
+>>>>> HAL OnRxError
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+[PHYMAC] WARNING : PDU size is too large!! PDU will be truncated...
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+>>>>> HAL OnTxTimeout
+>>>>> HAL OnRxError
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+>>>>> HAL OnTxTimeout
+>>>>> HAL OnRxError
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 6896 milli secomds
+error count: 0
+Execution time: 6846 milli secomds
+error count: 0
+Execution time: 6915 milli secomds
+error count: 0
+Execution time: 6915 milli secomds
+error count: 0
+Execution time: 6846 milli secomds
+error count: 0
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+>>>>> HAL OnTxTimeout
+>>>>> HAL OnRxError
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 11706 milli secomds
+error count: 2
+Execution time: 13144 milli secomds
+error count: 2
+Execution time: 9810 milli secomds
+error count: 0
+Execution time: 8915 milli secomds
+error count: 0
+
+ -------------------------------------------------
+[ARQ] ACK is received (44)
+ -------------------------------------------------
+[WARNING] cannot happen event 2 in the state 0
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+>>>>> HAL OnTxTimeout
+>>>>> HAL OnRxError
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 26255 milli secomds
+error count: 18
+Execution time: 292 milli secomds
+error count: 1
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+>>>>> HAL OnTxTimeout
+>>>>> HAL OnRxError
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+[PHYMAC] WARNING : PDU size is too large!! PDU will be truncated...
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+>>>>> HAL OnTxTimeout
+>>>>> HAL OnRxError
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 26619 milli secomds
+error count: 14
+Execution time: 361 milli secomds
+error count: 1
+Execution time: 22570 milli secomds
+error count: 6
+Execution time: 293 milli secomds
+error count: 1
+Execution time: 29604 milli secomds
+error count: 15
+Execution time: 29256 milli secomds
+error count: 9
+Execution time: 224 milli secomds
+error count: 1
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+>>>>> HAL OnTxTimeout
+>>>>> HAL OnRxError
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 23102 milli secomds
+error count: 8
+Execution time: 26775 milli secomds
+error count: 16
+
+ -------------------------------------------------
+[ARQ] ACK is received (0)
+ -------------------------------------------------
+[WARNING] cannot happen event 2 in the state 0
+Execution time: 26015 milli secomds
+error count: 28
+Execution time: 7464 milli secomds
+error count: 1
+Execution time: 6915 milli secomds
+error count: 0
+Execution time: 6846 milli secomds
+error count: 0
+Execution time: 10087 milli secomds
+error count: 2
+Execution time: 12086 milli secomds
+error count: 7
+Execution time: 13465 milli secomds
+error count: 4
+Execution time: 9941 milli secomds
+error count: 4
+-----------------------The End-----------------------
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+>>>>> HAL OnTxTimeout
+>>>>> HAL OnRxError
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 9654 milli secomds
+error count: 2
+Execution time: 13190 milli secomds
+error count: 6
+Execution time: 12422 milli secomds
+error count: 5
+Execution time: 9956 milli secomds
+error count: 0
+Execution time: 11714 milli secomds
+error count: 4
+Execution time: 13061 milli secomds
+error count: 7
+Execution time: 11822 milli secomds
+error count: 6
+Execution time: 13308 milli secomds
+error count: 6
+Execution time: 11007 milli secomds
+error count: 4
+Execution time: 11244 milli secomds
+error count: 6
+-----------------------The End-----------------------
+[PHYMAC] WARNING : PDU size is too large!! PDU will be truncated...

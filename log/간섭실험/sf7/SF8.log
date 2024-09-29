@@ -1,0 +1,48 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.08.26 17:41:17 =~=~=~=~=~=~=~=~=~=~=~=
+sf8 간섭없이, 간섭있이
+- 간섭있을땐 한바퀴 돌고 그 담은 2시간 동안 안됨 ㅅㅂ
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 11955 milli secomds
+error count: 0
+Execution time: 11674 milli secomds
+error count: 0
+Execution time: 11444 milli secomds
+error count: 0
+Execution time: 11444 milli secomds
+error count: 0
+Execution time: 11559 milli secomds
+error count: 0
+Execution time: 11444 milli secomds
+error count: 0
+Execution time: 11445 milli secomds
+error count: 0
+Execution time: 11444 milli secomds
+error count: 0
+Execution time: 11444 milli secomds
+error count: 0
+Execution time: 11444 milli secomds
+error count: 0
+-----------------------The End-----------------------
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 301657 milli secomds
+error count: 84

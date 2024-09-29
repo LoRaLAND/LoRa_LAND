@@ -1,0 +1,109 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.09.16 13:49:00 =~=~=~=~=~=~=~=~=~=~=~=
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 23539 milli secomds
+error count: 1
+Execution time: 21745 milli secomds
+error count: 0
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 22014 milli secomds
+error count: 0
+Execution time: 22181 milli secomds
+error count: 0
+Execution time: 22181 milli secomds
+error count: 0
+Execution time: 23924 milli secomds
+error count: 0
+Execution time: 21963 milli secomds
+error count: 0
+Execution time: 22616 milli secomds
+error count: 0
+Execution time: 29155 milli secomds
+error count: 2
+Execution time: 25014 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+Execution time: 22181 milli secomds
+error count: 0
+-----------------------The End-----------------------
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+
+ -------------------------------------------------
+[ARQ] ACK is received (0)
+ -------------------------------------------------
+[WARNING] cannot happen event 2 in the state 0
+Execution time: 107673 milli secomds
+error count: 39
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 79774 milli secomds
+error count: 35
+Execution time: 63157 milli secomds
+error count: 27
+Execution time: 94761 milli secomds
+error count: 41
+Execution time: 76234 milli secomds
+error count: 30
+Execution time: 69041 milli secomds
+error count: 17
+Execution time: 81683 milli secomds
+error count: 33
+Execution time: 79286 milli secomds
+error count: 30
+Execution time: 88876 milli secomds
+error count: 35
+>Execution time: 75851 milli secomds
+error count: 23
+Execution time: 46156 milli secomds
+error count: 7
+-----------------------The End-----------------------

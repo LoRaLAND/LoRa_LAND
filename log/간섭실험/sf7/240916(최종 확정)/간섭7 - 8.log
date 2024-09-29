@@ -1,0 +1,71 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.09.16 13:41:59 =~=~=~=~=~=~=~=~=~=~=~=
+
+ -------------------------------------------------
+[ARQ] ACK is received (128)
+ -------------------------------------------------
+[PHYMAC] WARNI------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+>>>>> HAL OnTxTimeout
+>>>>> HAL OnRxError
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+>>>>> HAL OnTxTimeout
+>>>>> HAL OnRxError
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 11611 milli secomds
+error count: 0
+Execution time: 11444 milli secomds
+error count: 0
+Execution time: 11559 milli secomds
+error count: 0
+Execution time: 11444 milli secomds
+error count: 0
+Execution time: 11444 milli secomds
+error count: 0
+Execution time: 11444 milli secomds
+error count: 0
+Execution time: 11559 milli secomds
+error count: 0
+Execution time: 11674 milli secomds
+error count: 0
+Execution time: 11444 milli secomds
+error count: 0
+Execution time: 11444 milli secomds
+error count: 0
+-----------------------The End-----------------------
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+>>>>> HAL OnTxTimeout
+>>>>> HAL OnRxError
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 16209 milli secomds
+error count: 0
+Execution time: 17767 milli secomds
+error count: 0
+Execution time: 20641 milli secomds
+error count: 2
+Execution time: 17882 milli secomds
+error count: 3
+Execution time: 17997 milli secomds
+error count: 0
+Execution time: 20986 milli secomds
+error count: 5
+Execution time: 18802 milli secomds
+error count: 5
+Execution time: 11789 milli secomds
+error count: 0
+Execution time: 18227 milli secomds
+error count: 4
+Execution time: 16503 milli secomds
+error count: 1
+-----------------------The End-----------------------

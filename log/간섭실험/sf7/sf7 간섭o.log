@@ -1,0 +1,240 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.05.25 02:37:41 =~=~=~=~=~=~=~=~=~=~=~=
+------------------ ARQ protocol starts! -------------------------- <========== sf7
+endnode : 4, dest : 2
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 25722 milli secomds
+error count: 0
+[PHYMAC] WARNING : PDU size is too large!! PDU will be truncated...
+------------------ ARQ protocol starts! --------------------------
+endnode : 4, dest : 2
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 8551 milli secomds                             <================ 너무 송수신이 안되서 재시도
+error count: 2
+------------------ ARQ protocol starts! --------------------------
+endnode : 4, dest : 2
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 7172 milli secomds
+error count: 0
+Execution time: 6915 milli secomds
+error count: 0
+Execution time: 24431 milli secomds  <================= 2번 정도 완료하고 다시 간섭 시작
+error count: 10
+
+ -------------------------------------------------
+[ARQ] ACK is received (0)
+ -------------------------------------------------
+[WARNING] cannot happen event 2 in the state 0
+
+ -------------------------------------------------
+[ARQ] ACK is received (0)
+ -------------------------------------------------
+[WARNING] cannot happen event 2 in the state 0
+Execution time: 84219 milli secomds
+error count: 102
+Execution time: 249520 milli secomds
+error count: 164
+
+ -------------------------------------------------
+[ARQ] ACK is received (32)
+ -------------------------------------------------
+[WARNING] cannot happen event 2 in the state 0
+
+ -------------------------------------------------
+[ARQ] ACK is received (0)
+ -------------------------------------------------
+[WARNING] cannot happen event 2 in the state 0
+Execution time: 290483 milli secomds
+error count: 132
+Execution time: 2083 milli secomds
+error count: 1
+Execution time: 87 milli secomds
+error count: 1
+Execution time: 64707 milli secomds
+error count: 105
+Execution time: 6843 milli secomds    <================== 너무 오래걸려서 간섭 끄자마자 바로 잘됨
+error count: 0
+-----------------------The End-----------------------
+------------------ ARQ protocol starts! -------------------------- <========== sf8
+endnode : 4, dest : 2
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 11496 milli secomds
+error count: 0
+Execution time: 11559 milli secomds
+error count: 0
+Execution time: 17997 milli secomds
+error count: 0
+Execution time: 11559 milli secomds
+error count: 0
+Execution time: 18342 milli secomds
+error count: 0
+Execution time: 11445 milli secomds
+error count: 0
+Execution time: 18227 milli secomds
+error count: 0
+Execution time: 11444 milli secomds
+error count: 0
+Execution time: 17882 milli secomds
+error count: 0
+Execution time: 11444 milli secomds
+error count: 0
+-----------------------The End-----------------------
+------------------ ARQ protocol starts! -------------------------- <========== sf9
+endnode : 4, dest : 2
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 21796 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+Execution time: 33951 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+Execution time: 33951 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+Execution time: 33951 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+Execution time: 33951 milli secomds
+error count: 0
+Execution time: 21963 milli secomds
+error count: 0
+-----------------------The End-----------------------
+------------------ ARQ protocol starts! -------------------------- <========== sf10
+endnode : 4, dest : 2
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 38296 milli secomds
+error count: 0
+Execution time: 38245 milli secomds
+error count: 0
+Execution time: 60074 milli secomds
+error count: 0
+Execution time: 38245 milli secomds
+error count: 0
+Execution time: 60074 milli secomds
+error count: 0
+Execution time: 38245 milli secomds
+error count: 0
+Execution time: 60074 milli secomds
+error count: 0
+Execution time: 38245 milli secomds
+error count: 0
+Execution time: 59691 milli secomds
+error count: 0
+Execution time: 38245 milli secomds
+error count: 0
+-----------------------The End-----------------------
+------------------ ARQ protocol starts! -------------------------- <========== sf11
+endnode : 4, dest : 2
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 75296 milli secomds
+error count: 0
+Execution time: 75245 milli secomds
+error count: 0
+Execution time: 117411 milli secomds
+error count: 0
+Execution time: 75244 milli secomds
+error count: 0
+Execution time: 117411 milli secomds
+error count: 0
+Execution time: 75244 milli secomds
+error count: 0
+Execution time: 117411 milli secomds
+error count: 0
+Execution time: 75244 milli secomds
+error count: 0
+Execution time: 117411 milli secomds
+error count: 0
+Execution time: 75244 milli secomds
+error count: 0
+-----------------------The End-----------------------
+------------------ ARQ protocol starts! -------------------------- <========== sf12
+endnode : 4, dest : 2
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 149497 milli secomds
+error count: 0
+Execution time: 149445 milli secomds
+error count: 0
+Execution time: 233163 milli secomds
+error count: 0
+Execution time: 149445 milli secomds
+error count: 0
+Execution time: 233163 milli secomds
+error count: 0
+Execution time: 149445 milli secomds
+error count: 0
+Execution time: 233163 milli secomds
+error count: 0
+Execution time: 149445 milli secomds
+error count: 0
+Execution time: 233163 milli secomds
+error count: 0
+Execution time: 149445 milli secomds
+error count: 0
+-----------------------The End-----------------------

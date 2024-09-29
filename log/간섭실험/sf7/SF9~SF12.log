@@ -1,0 +1,257 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.08.26 19:52:01 =~=~=~=~=~=~=~=~=~=~=~=
+------------------ ARQ protocol starts! -------------------------- <=======================================간섭X SF9
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 21796 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+-----------------------The End-----------------------
+------------------ ARQ protocol starts! -------------------------- <=======================================간섭O SF9
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 22886 milli secomds
+error count: 1
+Execution time: 22399 milli secomds
+error count: 0
+Execution time: 22835 milli secomds
+error count: 1
+Execution time: 23270 milli secomds
+error count: 1
+Execution time: 21745 milli secomds
+error count: 0
+Execution time: 21745 milli secomds
+error count: 0
+Execution time: 21963 milli secomds
+error count: 0
+Execution time: 22181 milli secomds
+error count: 0
+Execution time: 21963 milli secomds
+error count: 0
+Execution time: 21963 milli secomds
+error count: 0
+-----------------------The End-----------------------
+------------------ ARQ protocol starts! -------------------------- <=======================================간섭X SF10
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 38296 milli secomds
+error count: 0
+Execution time: 38245 milli secomds
+error count: 0
+Execution time: 38245 milli secomds
+error count: 0
+Execution time: 38245 milli secomds
+error count: 0
+Execution time: 38245 milli secomds
+error count: 0
+Execution time: 38245 milli secomds
+error count: 0
+Execution time: 38245 milli secomds
+error count: 0
+Execution time: 38245 milli secomds
+error count: 0
+Execution time: 38245 milli secomds
+error count: 0
+Execution time: 38245 milli secomds
+error count: 0
+-----------------------The End-----------------------
+------------------ ARQ protocol starts! -------------------------- <=======================================간섭O SF10
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 38961 milli secomds
+error count: 0
+Execution time: 38245 milli secomds
+error count: 0
+Execution time: 38245 milli secomds
+error count: 0
+Execution time: 38245 milli secomds
+error count: 0
+Execution time: 38245 milli secomds
+error count: 0
+Execution time: 38628 milli secomds
+error count: 0
+Execution time: 39011 milli secomds
+error count: 0
+Execution time: 38245 milli secomds
+error count: 0
+Execution time: 38245 milli secomds
+error count: 0
+Execution time: 38628 milli secomds
+error count: 0
+-----------------------The End-----------------------
+------------------ ARQ protocol starts! -------------------------- <=======================================간섭X SF11
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 75396 milli secomds
+error count: 0
+Execution time: 75345 milli secomds
+error count: 0
+Execution time: 75345 milli secomds
+error count: 0
+Execution time: 75345 milli secomds
+error count: 0
+Execution time: 75345 milli secomds
+error count: 0
+Execution time: 75345 milli secomds
+error count: 0
+Execution time: 75345 milli secomds
+error count: 0
+Execution time: 75345 milli secomds
+error count: 0
+Execution time: 75345 milli secomds
+error count: 0
+Execution time: 75345 milli secomds
+error count: 0
+-----------------------The End-----------------------
+------------------ ARQ protocol starts! -------------------------- <=======================================간섭O SF11
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 75396 milli secomds
+error count: 0
+Execution time: 75345 milli secomds
+error count: 0
+Execution time: 75345 milli secomds
+error count: 0
+Execution time: 75345 milli secomds
+error count: 0
+Execution time: 75345 milli secomds
+error count: 0
+Execution time: 75345 milli secomds
+error count: 0
+Execution time: 75345 milli secomds
+error count: 0
+Execution time: 75345 milli secomds
+error count: 0
+Execution time: 75345 milli secomds
+error count: 0
+Execution time: 76853 milli secomds
+error count: 0
+-----------------------The End-----------------------
+------------------ ARQ protocol starts! --------------------------  <=======================================간섭X SF12
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 149497 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+Execution time: 149445 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+Execution time: 149445 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+Execution time: 149445 milli secomds
+error count: 0
+Execution time: 149444 milli secomds
+error count: 0
+-----------------------The End-----------------------
+------------------ ARQ protocol starts! -------------------------- <=======================================간섭O SF12
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 164446 milli secomds
+error count: 1
+Execution time: 150939 milli secomds
+error count: 0
+Execution time: 159909 milli secomds
+error count: 0
+Execution time: 159909 milli secomds
+error count: 0
+Execution time: 167384 milli secomds
+error count: 0
+Execution time: 152434 milli secomds
+error count: 0
+Execution time: 162899 milli secomds
+error count: 0
+Execution time: 159909 milli secomds
+error count: 0
+Execution time: 158414 milli secomds
+error count: 0
+Execution time: 167384 milli secomds
+error count: 2
+

@@ -1,0 +1,69 @@
+1. 간섭 없이 SF7
+2. 간섭(SF7) 있이 SF7
+- 중간에 PDU SIZE TOO LARGE 떠서 다시했는데 같은 결과
+
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.08.26 17:31:29 =~=~=~=~=~=~=~=~=~=~=~=
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 6896 milli secomds
+error count: 0
+Execution time: 6846 milli secomds
+error count: 0
+Execution time: 6846 milli secomds
+error count: 0
+Execution time: 6846 milli secomds
+error count: 0
+Execution time: 6846 milli secomds
+error count: 0
+Execution time: 6915 milli secomds
+error count: 0
+Execution time: 6846 milli secomds
+error count: 0
+Execution time: 6915 milli secomds
+error count: 0
+Execution time: 6846 milli secomds
+error count: 0
+Execution time: 6846 milli secomds
+error count: 0
+-----------------------The End-----------------------
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 25653 milli secomds
+error count: 5
+Execution time: 19189 milli secomds
+error count: 7
+Execution time: 29878 milli secomds
+error count: 10
+[PHYMAC] WARNING : PDU size is too large!! PDU will be truncated...
+------------------ ARQ protocol starts! --------------------------
+endnode : 34, dest : 12
+>>>>> HAL OnTxDone Function
+
+>>>>> HAL OnTxTimeout
+
+>>>>> HAL OnRxError
+
+>>>>> HAL OnRxTimeout
+
+   Initializing Radio Interrupt handlers 
+Execution time: 34067 milli secomds
+error count: 18
+[PHYMAC] WARNING : PDU size is too large!! PDU will be truncated...
