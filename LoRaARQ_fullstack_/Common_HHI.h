@@ -3,7 +3,7 @@
 
 #include "Common_HAL.h"
 
-typedef enum BoardType
+typedef enum BoardType      //보드 타입 구조체(보드 종류가 무엇인가?)
 {
     SX1272MB2XAS = 0,
     SX1272MB1DCS,

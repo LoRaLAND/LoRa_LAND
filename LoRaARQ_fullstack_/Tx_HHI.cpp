@@ -78,7 +78,7 @@ void HW_Tx( const HWStatus_t HWabs, uint32_t timeout )
     
     switch(HWabs.settings.Modem)
     {
-    case MODEM_FSK:
+    case MODEM_FSK:                 //안씀(우린 로라만 쓰니까)
 		#if 0
         {
             // DIO0=PacketSent
